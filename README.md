@@ -10,3 +10,5 @@ The student network when trained directly without any knowledge from the teacher
 This can be seen by running student.py.
 
 Thus using the knowledge from another network we see an improvement in test accuracy of around 2.5% .
+
+hello
